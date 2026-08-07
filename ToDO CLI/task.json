@@ -1,0 +1,50 @@
+[
+    {
+        "id": 4,
+        "title": "Update Tasks",
+        "priority": "Low",
+        "status": "In Progress"
+    },
+    {
+        "id": 5,
+        "title": "Upadate CLI Module",
+        "priority": "High",
+        "status": "In Progress"
+    },
+    {
+        "id": 6,
+        "title": "test REST api on POSTMAN",
+        "priority": "Low",
+        "status": "In Progress"
+    },
+    {
+        "id": 7,
+        "title": "design architecture diagram of the ToDo",
+        "priority": "Low",
+        "status": "Pending"
+    },
+    {
+        "id": 8,
+        "title": "Backend API",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "id": 9,
+        "title": "Cloud",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "id": 10,
+        "title": "Backend",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "id": 11,
+        "title": "Study Devops Fundamentals",
+        "priority": "Medium",
+        "status": "Pending"
+    }
+]

@@ -1,0 +1,35 @@
+07-08-2026 02:01:39 | INFO | Task Updated | ID=6
+07-08-2026 02:01:39 | INFO | Update cancelled | ID=6
+07-08-2026 02:01:39 | WARNING | Update failed | Task ID=6 not found.
+07-08-2026 02:18:41 | INFO | Task Created | ID=8 | Title='Backend API'
+07-08-2026 02:18:41 | WARNING | Task creation failed due to invalid title.
+07-08-2026 02:18:41 | INFO | Task creation cancelled by user.
+07-08-2026 02:23:00 | INFO | Viewed task list.
+07-08-2026 02:23:06 | INFO | Viewed In Progress tasks.
+07-08-2026 02:23:06 | INFO | Displayed 3 task(s) for option 'In Progress Tasks'.
+07-08-2026 02:23:11 | INFO | Exited View Tasks menu.
+07-08-2026 10:44:29 | INFO | Task Created | ID=9 | Title='Cloud'
+07-08-2026 10:44:29 | WARNING | Task creation failed due to invalid title.
+07-08-2026 10:44:29 | INFO | Task creation cancelled by user.
+07-08-2026 10:59:25 | INFO | Viewed task list.
+07-08-2026 10:59:27 | INFO | Viewed all tasks.
+07-08-2026 10:59:27 | INFO | Displayed 6 task(s) for option 'View All Tasks'.
+07-08-2026 11:08:27 | INFO | Exited View Tasks menu.
+07-08-2026 11:08:36 | INFO | Task Created | ID=10 | Title='Backend'
+07-08-2026 11:08:36 | WARNING | Task creation failed due to invalid title.
+07-08-2026 11:08:36 | INFO | Task creation cancelled by user.
+07-08-2026 11:08:47 | INFO | Viewed task list.
+07-08-2026 11:08:54 | INFO | Viewed Completed tasks.
+07-08-2026 11:08:54 | INFO | No tasks found for filter: Completed Tasks
+07-08-2026 11:14:54 | INFO | Exited View Tasks menu.
+07-08-2026 11:23:13 | WARNING | Invalid task title entered.
+07-08-2026 11:33:50 | INFO | Dashboard viewed.
+07-08-2026 11:44:56 | INFO | Dashboard viewed.
+07-08-2026 11:45:21 | WARNING | Invalid task title entered.
+07-08-2026 11:45:26 | WARNING | Invalid task title entered.
+07-08-2026 11:45:50 | WARNING | Invalid priority entered.
+07-08-2026 11:45:59 | WARNING | Invalid priority entered.
+07-08-2026 11:46:03 | WARNING | Invalid status entered.
+07-08-2026 11:46:05 | WARNING | Invalid status entered.
+07-08-2026 11:46:18 | INFO | Task Created | ID=11 | Title='Study Devops Fundamentals'
+07-08-2026 12:15:50 | WARNING | Invalid task title entered.
