@@ -1,0 +1,107 @@
+07-08-2026 02:01:39 | INFO | Task Updated | ID=6
+07-08-2026 02:01:39 | INFO | Update cancelled | ID=6
+07-08-2026 02:01:39 | WARNING | Update failed | Task ID=6 not found.
+07-08-2026 02:18:41 | INFO | Task Created | ID=8 | Title='Backend API'
+07-08-2026 02:18:41 | WARNING | Task creation failed due to invalid title.
+07-08-2026 02:18:41 | INFO | Task creation cancelled by user.
+07-08-2026 02:23:00 | INFO | Viewed task list.
+07-08-2026 02:23:06 | INFO | Viewed In Progress tasks.
+07-08-2026 02:23:06 | INFO | Displayed 3 task(s) for option 'In Progress Tasks'.
+07-08-2026 02:23:11 | INFO | Exited View Tasks menu.
+07-08-2026 10:44:29 | INFO | Task Created | ID=9 | Title='Cloud'
+07-08-2026 10:44:29 | WARNING | Task creation failed due to invalid title.
+07-08-2026 10:44:29 | INFO | Task creation cancelled by user.
+07-08-2026 10:59:25 | INFO | Viewed task list.
+07-08-2026 10:59:27 | INFO | Viewed all tasks.
+07-08-2026 10:59:27 | INFO | Displayed 6 task(s) for option 'View All Tasks'.
+07-08-2026 11:08:27 | INFO | Exited View Tasks menu.
+07-08-2026 11:08:36 | INFO | Task Created | ID=10 | Title='Backend'
+07-08-2026 11:08:36 | WARNING | Task creation failed due to invalid title.
+07-08-2026 11:08:36 | INFO | Task creation cancelled by user.
+07-08-2026 11:08:47 | INFO | Viewed task list.
+07-08-2026 11:08:54 | INFO | Viewed Completed tasks.
+07-08-2026 11:08:54 | INFO | No tasks found for filter: Completed Tasks
+07-08-2026 11:14:54 | INFO | Exited View Tasks menu.
+07-08-2026 11:23:13 | WARNING | Invalid task title entered.
+07-08-2026 11:33:50 | INFO | Dashboard viewed.
+07-08-2026 11:44:56 | INFO | Dashboard viewed.
+07-08-2026 11:45:21 | WARNING | Invalid task title entered.
+07-08-2026 11:45:26 | WARNING | Invalid task title entered.
+07-08-2026 11:45:50 | WARNING | Invalid priority entered.
+07-08-2026 11:45:59 | WARNING | Invalid priority entered.
+07-08-2026 11:46:03 | WARNING | Invalid status entered.
+07-08-2026 11:46:05 | WARNING | Invalid status entered.
+07-08-2026 11:46:18 | INFO | Task Created | ID=11 | Title='Study Devops Fundamentals'
+07-08-2026 12:15:50 | WARNING | Invalid task title entered.
+07-08-2026 14:03:44 | INFO | Viewed task list.
+07-08-2026 14:03:53 | INFO | Viewed all tasks.
+07-08-2026 14:03:53 | INFO | Displayed 7 task(s) for option 'View All Tasks'.
+07-08-2026 14:04:10 | INFO | Viewed Pending tasks.
+07-08-2026 14:04:10 | INFO | Displayed 4 task(s) for option 'Pending Tasks'.
+07-08-2026 14:04:21 | INFO | Viewed In Progress tasks.
+07-08-2026 14:04:21 | INFO | Displayed 3 task(s) for option 'In Progress Tasks'.
+07-08-2026 14:04:28 | INFO | Viewed Completed tasks.
+07-08-2026 14:04:28 | INFO | No tasks found for filter: Completed Tasks
+07-08-2026 14:04:36 | INFO | Viewed Task | ID=5
+07-08-2026 14:04:36 | INFO | Viewed Task | ID=5
+07-08-2026 14:04:36 | INFO | Displayed 1 task(s) for option 'Search by Task ID'.
+07-08-2026 14:04:43 | INFO | Viewed all tasks.
+07-08-2026 14:04:43 | INFO | Displayed 7 task(s) for option 'View All Tasks'.
+07-08-2026 14:04:48 | WARNING | User entered an invalid Task ID while searching.
+07-08-2026 14:04:57 | INFO | Exited View Tasks menu.
+07-08-2026 14:05:46 | WARNING | Invalid task title entered.
+07-08-2026 14:06:02 | WARNING | Invalid task title entered.
+07-08-2026 14:06:14 | WARNING | Invalid priority entered.
+07-08-2026 14:06:27 | WARNING | Invalid status entered.
+07-08-2026 14:06:30 | WARNING | Invalid status entered.
+07-08-2026 14:06:32 | WARNING | Invalid status entered.
+07-08-2026 14:06:48 | INFO | Task Created | ID=12 | Title='Read a book'
+07-08-2026 14:10:28 | WARNING | Delete failed | Task ID=12 not found.
+07-08-2026 14:11:05 | INFO | Dashboard viewed.
+07-08-2026 14:12:23 | WARNING | Invalid task title entered.
+07-08-2026 14:12:26 | WARNING | Invalid task title entered.
+07-08-2026 14:12:56 | INFO | Task creation cancelled by user.
+07-08-2026 14:14:30 | INFO | Viewed task list.
+07-08-2026 14:14:35 | WARNING | User entered an invalid Task ID while searching.
+07-08-2026 14:16:29 | INFO | Viewed Completed tasks.
+07-08-2026 14:16:29 | INFO | No tasks found for filter: Completed Tasks
+07-08-2026 14:16:52 | INFO | Viewed Completed tasks.
+07-08-2026 14:16:52 | INFO | No tasks found for filter: Completed Tasks
+07-08-2026 14:17:31 | INFO | Exited View Tasks menu.
+07-08-2026 14:20:29 | WARNING | Delete failed | Task ID=0 not found.
+07-08-2026 14:25:58 | INFO | Viewed task list.
+07-08-2026 14:26:03 | INFO | Viewed Completed tasks.
+07-08-2026 14:26:03 | INFO | No tasks found for filter: Completed Tasks
+07-08-2026 14:26:42 | INFO | Exited View Tasks menu.
+07-08-2026 14:26:51 | INFO | Viewed task list.
+07-08-2026 14:27:02 | INFO | Exited View Tasks menu.
+07-08-2026 14:32:39 | INFO | Task Updated | ID=5
+07-08-2026 14:32:39 | INFO | Update cancelled | ID=5
+07-08-2026 14:32:39 | WARNING | Update failed | Task ID=5 not found.
+07-08-2026 14:55:25 | WARNING | Task not found during update.
+07-08-2026 15:12:07 | WARNING | Invalid task title entered.
+07-08-2026 15:12:24 | WARNING | Invalid priority entered.
+07-08-2026 15:12:54 | INFO | Task Created | ID=12 | Title='HTML Tutorial'
+07-08-2026 15:13:15 | WARNING | Invalid status entered.
+07-08-2026 15:13:23 | INFO | Task Created | ID=13 | Title='fk'
+07-08-2026 15:18:13 | INFO | Task Created | ID=14 | Title='SRS'
+07-08-2026 15:22:50 | INFO | Task Created | ID=15 | Title='DOD making'
+07-08-2026 15:23:38 | INFO | Task Created | ID=16 | Title='Code'
+07-08-2026 15:24:38 | INFO | Task Created | ID=17 | Title='Cloud Instance'
+07-08-2026 15:25:13 | WARNING | Invalid status entered.
+07-08-2026 15:25:18 | INFO | Task Created | ID=18 | Title='Hello'
+07-08-2026 15:28:12 | INFO | Task Created | ID=19 | Title='Datansh'
+07-08-2026 16:11:54 | INFO | Dashboard viewed.
+07-08-2026 16:12:32 | INFO | Task Created | ID=20 | Title='ABCD'
+07-08-2026 16:16:39 | INFO | Task Created | ID=21 | Title='tile'
+09-08-2026 15:40:17 | INFO | Dashboard viewed.
+09-08-2026 15:40:40 | INFO | Deletion cancelled | ID=12
+09-08-2026 15:41:56 | INFO | Viewed task list.
+09-08-2026 15:42:09 | INFO | Viewed Completed tasks.
+09-08-2026 15:42:09 | INFO | Displayed 5 task(s) for option 'Completed Tasks'.
+09-08-2026 15:42:16 | INFO | Exited View Tasks menu.
+09-08-2026 15:42:35 | WARNING | Invalid task title entered.
+09-08-2026 15:42:44 | WARNING | Invalid status entered.
+09-08-2026 15:42:56 | INFO | Task Created | ID=22 | Title='lgk'
+09-08-2026 15:49:58 | INFO | Task Created | ID=23 | Title='revision'
+09-08-2026 15:50:46 | INFO | Task Updated | ID=12
