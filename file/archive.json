@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "CLI Module",
+        "priority": "High",
+        "status": "Completed"
+    },
+    {
+        "id": 2,
+        "title": "Make AWS instances",
+        "priority": "Medium",
+        "status": "Completed"
+    },
+    {
+        "id": 3,
+        "title": "Make SRS of ToDo",
+        "priority": "High",
+        "status": "Completed"
+    },
+    {
+        "id": 10,
+        "title": "Backend",
+        "priority": "High",
+        "status": "Completed"
+    },
+    {
+        "id": 12,
+        "title": "Read a book",
+        "priority": "Low",
+        "status": "Completed"
+    }
+]
