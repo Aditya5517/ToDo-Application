@@ -1,0 +1,11 @@
+13-08-2026 11:56:41 | WARNING | users.json not found. Returning empty user list.
+13-08-2026 12:41:05 | INFO | User login successful | username=admin
+13-08-2026 14:27:19 | INFO | User created | ID=1 | username=Aditya
+13-08-2026 14:29:26 | INFO | User created | ID=2 | username=Awasthi
+13-08-2026 14:41:07 | INFO | User created | ID=1 | username=Aditya
+13-08-2026 14:41:37 | INFO | User created | ID=2 | username=Pankaj
+13-08-2026 14:42:05 | INFO | User created | ID=3 | username=Ishita
+13-08-2026 14:42:29 | INFO | User created | ID=4 | username=Tanvi
+13-08-2026 15:05:09 | INFO | User login successful | username=Aditya
+13-08-2026 15:13:33 | INFO | User login successful | username=Aditya
+13-08-2026 15:26:53 | INFO | User logout Succesfully
