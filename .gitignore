@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+
+# Logs
+*.log
+
+# Testing cache
+.pytest_cache/
+
